@@ -4,6 +4,12 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+
+.iconspliter {
+margin-left: 25px;
+}
+
 body a {
   transition: 0.5s all;
   -webkit-transition: 0.5s all;
@@ -1720,7 +1726,7 @@ h3.tittle.three {
 .right_form{
 	float:left;
 	width:48%;
-	margin-left:3.8%;
+	/*margin-left:3.8%;*/
 }
 .contact-form div{
 	padding:5px 0;
@@ -1733,7 +1739,7 @@ h3.tittle.three {
     font-weight: 400;
     margin: 0.5em 0;
 }
-.contact-form input[type="text"],.contact-form textarea{
+.contact-form input[type="text"],.contact-form textarea,.contact-form input[type="password"]{
 		       padding:16px 15px;
 			display:block;
 			width:100%;
