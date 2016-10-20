@@ -306,6 +306,16 @@ p.location span {
 	animation: anim-francisco 0.3s forwards;
 }
 
+.btnRegister {
+    background-color: #424143;width: 200px;height: 48px;color: #ffffff;display: inline-block;border-radius: 3px;text-align: center;line-height: 55px;
+}
+.btnSignin {
+    background-color: #8eb044;width: 200px;height: 48px;color: #ffffff;display: inline-block;border-radius: 3px;text-align: center;line-height: 55px;
+}
+.anchorizedBtns {
+    color: #ffffff;padding: 15px 70px 10px 70px;
+}
+
 @-webkit-keyframes anim-francisco {
 	50% {
 		opacity: 0;
@@ -3453,14 +3463,4 @@ float:left;
 		border-top: none !important;
 		padding: 0 5px!important;
 	}
-    .btnRegister {
-        background-color: #1B242F;
-        width: 200px;
-        height: 20px;
-    }
-    .btnSignin {
-        background-color: rgba(97, 212, 76, 0.41);
-        width: 100px;
-        height: 20px;
-    }
 }
