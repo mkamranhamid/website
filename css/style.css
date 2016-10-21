@@ -313,13 +313,13 @@ p.location span {
 }
 
 .btnRegister {
-    background-color: #424143;width: 200px;height: 48px;color: #ffffff;display: inline-block;border-radius: 3px;text-align: center;line-height: 55px;
+    background-color: #424143;width: 150px;height: 48px;color: #ffffff;display: inline-block;border-radius: 3px;text-align: center;line-height: 55px;
 }
 .btnSignin {
-    background-color: #8eb044;width: 200px;height: 48px;color: #ffffff;display: inline-block;border-radius: 3px;text-align: center;line-height: 55px;
+    background-color: #8eb044;width: 150px;height: 48px;color: #ffffff;display: inline-block;border-radius: 3px;text-align: center;line-height: 55px;
 }
 .anchorizedBtns {
-    color: #ffffff;padding: 15px 70px 10px 70px;
+    color: #ffffff;padding: 15px 45px 10px 45px;
 }
 
 @-webkit-keyframes anim-francisco {
